@@ -1,0 +1,2 @@
+# django-hr
+Learning django
